@@ -1,0 +1,26 @@
+clean_code_01/InfoPersona.java
+ clean_code_01.InfoPersona
+clean_code_02/FakeDatabase.java
+ clean_code_02.FakeDatabase
+clean_code_03/ListPrinter.java
+ clean_code_03.ListPrinter
+clean_code_03/Materia.java
+ clean_code_03.Materia
+clean_code_02/CleanCode02.java
+ clean_code_02.CleanCode02
+clean_code_02/Usuario.java
+ clean_code_02.Usuario
+clean_code_01/CleanCode01.java
+ clean_code_01.CleanCode01
+clean_code_03/CleanCode03.java
+ clean_code_03.CleanCode03
+clean_code_06/PasswordException.java
+ clean_code_06.PasswordException
+clean_code_05/CleanCode05.java
+ clean_code_05.CleanCode05
+clean_code_06/EmailException.java
+ clean_code_06.EmailException
+clean_code_05/Empleado.java
+ clean_code_05.Empleado
+clean_code_06/CleanCode06.java
+ clean_code_06.CleanCode06
